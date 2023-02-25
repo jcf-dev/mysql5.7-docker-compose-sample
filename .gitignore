@@ -1,0 +1,11 @@
+data/*
+!data/.gitkeep
+
+conf.d/*
+!conf.d/.gitkeep
+
+initdb/*
+!initdb/.gitkeep
+
+.vscode/*
+.env
